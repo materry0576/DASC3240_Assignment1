@@ -11,16 +11,16 @@ output: html_document
 
 # 1. Student ID and Name
 
-## [Student ID]{style="color:red"}: XXXXXXXXX
+## [Student ID]{style="color:red"}: 21053646
 
-## [Name]{style="color:red"}: XXXXXXXX
+## [Name]{style="color:red"}: Ma Tak Yi, Terry
 
 # 2. Generative AI declaration
 
 Students may use generative AI tools during assignment, for example, to check and improve code, provided that the content is original and reflects the student's own contributions. If generative AI is used, students must declare its use in the box below. An example statement is: “*During the assignment, I used [XXXX] to [XXXX]. I subsequently reviewed and edited the code and take(s) full responsibility for the final version of the code.”*
 
 ::: textbox
-xxxxxxxxxxxxxx
+I did not use generative AI for this assignment.
 :::
 
 # 3. Assignments
